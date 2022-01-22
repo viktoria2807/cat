@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+header b{
+  color: rgb(8, 21, 139);
+}
+h1 {
+    color:DeepSkyBlue;
+}
+h2 {
+    color:DarkBlue;
+}
+footber p{
+     border: 9px solid MediumSlateBlue;
+}   
+nav{
+     border: 1px solid MediumSlateBlue;
+     border-radius: 10px;
+} 
+nav a{color:black}
+.icon
+{
+border: 4px solid black;
+}
